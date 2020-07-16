@@ -2120,11 +2120,12 @@
 .device.iphone-x .camera {
   width: 6px;
   height: 6px;
-  top: 9px;
+  top: 7px;
   border-radius: 100%;
   position: absolute;
-  left: 154px;
-  background: #0d4d71;
+  left: 140px;
+  background: linear-gradient(#0d4d71, #051a31, #0f3b65);
+  border: #202222 solid 2px;
 }
 .device.iphone-x .speaker {
   height: 6px;
@@ -2138,14 +2139,14 @@
 }
 .device.iphone-x .notch {
   position: absolute;
-  width: 210px;
+  width: 200px;
   height: 30px;
   top: 26px;
-  left: 108px;
+  left: 113px;
   z-index: 4;
   background: black;
-  border-bottom-left-radius: 24px;
-  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 17px;
+  border-bottom-right-radius: 17px;
 }
 .device.iphone-x .notch:before,
 .device.iphone-x .notch:after {
