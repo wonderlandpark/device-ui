@@ -1,6 +1,6 @@
 # Device-ui
 
-Forked Project from [marvelapp/devices.css](https://github.com/marvelapp/devices.css) for improving and maintaining
+Device UI is cloned of [marvelapp/devices.css](https://github.com/marvelapp/devices.css) for improving and maintaining
 
 ---
 
